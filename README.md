@@ -22,9 +22,11 @@ predictable when things fail.
   student marketplace & skill-swap platform, live in production.
   React, TypeScript, Supabase (PostgreSQL, RLS, Realtime): rentals,
   real-time messaging, student verification by academic email.
-- **Wasla** — AI WhatsApp automation for businesses: Node.js/Express,
-  Meta WhatsApp Business API, n8n workflows, Gemini replies in French
-  and Darija.
+- **Wasla** — WhatsApp automation platform for businesses (v1 built
+  and shipped; discontinued in Nov 2026 after a WhatsApp Business
+  policy change). Node.js/Express, Meta WhatsApp Business API, n8n
+  workflows, Gemini replies in French and Darija. Being rebuilt as a
+  system of record for Moroccan driving schools.
 - **[AtlasTech](https://github.com/ZAKARIAXXX/atlastech)** —
   enterprise IT operations & AIOps platform. Next.js 15, FastAPI,
   PostgreSQL, Redis, Docker Compose — documented like a production
