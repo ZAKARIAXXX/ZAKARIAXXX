@@ -21,12 +21,15 @@ predictable when things fail.
 - **[CampusLoop](https://campusloop-virid-alpha.vercel.app/)** —
   student marketplace & skill-swap platform, live in production.
   React, TypeScript, Supabase (PostgreSQL, RLS, Realtime): rentals,
-  real-time messaging, student verification by academic email.
+  real-time messaging, student verification by academic email, and a
+  public demo mode anyone can explore without an account.
 - **Wasla** — WhatsApp automation platform for businesses (v1 built
   and shipped; discontinued in Nov 2026 after a WhatsApp Business
   policy change). Node.js/Express, Meta WhatsApp Business API, n8n
-  workflows, Gemini replies in French and Darija. Being rebuilt as a
-  system of record for Moroccan driving schools.
+  workflows, Gemini replies in French and Darija. v2 is in active
+  build on the same codebase as a system of record for Moroccan
+  driving schools — candidate dossiers, a NARSA eligibility rules
+  engine, and conflict-free lesson scheduling are implemented.
 - **[AtlasTech](https://github.com/ZAKARIAXXX/atlastech)** —
   enterprise IT operations & AIOps platform. Next.js 15, FastAPI,
   PostgreSQL, Redis, Docker Compose — documented like a production
