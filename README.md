@@ -55,6 +55,9 @@ PortSwigger), Linux, Docker, n8n automation
   decisions.
 - Currently deepening: Java / Spring backend engineering, with
   application security as the multiplier.
+- **Current focus (Nov 2026):** junior IT support / QA roles in
+  Rabat–Salé — a Foundever application is in process — while
+  building Java / Spring backend skills.
 
 ## Contact
 
