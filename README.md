@@ -26,10 +26,12 @@ predictable when things fail.
 - **Wasla** — WhatsApp automation platform for businesses (v1 built
   and shipped; discontinued in Nov 2026 after a WhatsApp Business
   policy change). Node.js/Express, Meta WhatsApp Business API, n8n
-  workflows, Gemini replies in French and Darija. v2 is in active
-  build on the same codebase as a system of record for Moroccan
-  driving schools — candidate dossiers, a NARSA eligibility rules
-  engine, and conflict-free lesson scheduling are implemented.
+  workflows, Gemini replies in French and Darija. A v2 was built
+  on the same codebase in November 2026 as a system of record for
+  Moroccan driving schools — candidate dossiers, a NARSA
+  eligibility rules engine, and conflict-free lesson scheduling
+  are implemented — and parked by decision in November 2026; the
+  repository remains as portfolio proof.
 - **[AtlasTech](https://github.com/ZAKARIAXXX/atlastech)** —
   enterprise IT operations & AIOps platform. Next.js 15, FastAPI,
   PostgreSQL, Redis, Docker Compose — documented like a production
