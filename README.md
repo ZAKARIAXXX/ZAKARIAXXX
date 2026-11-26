@@ -23,15 +23,16 @@ predictable when things fail.
   React, TypeScript, Supabase (PostgreSQL, RLS, Realtime): rentals,
   real-time messaging, student verification by academic email, and a
   public demo mode anyone can explore without an account.
-- **Wasla** — WhatsApp automation platform for businesses (v1 built
-  and shipped; discontinued in Nov 2026 after a WhatsApp Business
-  policy change). Node.js/Express, Meta WhatsApp Business API, n8n
-  workflows, Gemini replies in French and Darija. A v2 was built
-  on the same codebase in November 2026 as a system of record for
-  Moroccan driving schools — candidate dossiers, a NARSA
-  eligibility rules engine, and conflict-free lesson scheduling
-  are implemented — and parked by decision in November 2026; the
-  repository remains as portfolio proof.
+- **PermiLoop** — system of record for Moroccan driving schools,
+  built on the Wasla v1 codebase (WhatsApp automation for businesses,
+  discontinued in Nov 2026 after a WhatsApp Business policy change).
+  Complete S1–S6: candidate dossiers with document checklists, a
+  NARSA eligibility rules engine, conflict-free lesson scheduling
+  enforced by database exclusion constraints, and an append-only
+  payments ledger (centimes, PDF receipts, idempotency,
+  concurrency-safe) — 39/39 tests green. Node.js/Express,
+  PostgreSQL (RLS), React. Parked by decision in November 2026;
+  the repository remains as portfolio proof.
 - **[AtlasTech](https://github.com/ZAKARIAXXX/atlastech)** —
   enterprise IT operations & AIOps platform. Next.js 15, FastAPI,
   PostgreSQL, Redis, Docker Compose — documented like a production
@@ -56,8 +57,7 @@ PortSwigger), Linux, Docker, n8n automation
 - Currently deepening: Java / Spring backend engineering, with
   application security as the multiplier.
 - **Current focus (Nov 2026):** junior IT support / QA roles in
-  Rabat–Salé — a Foundever application is in process — while
-  building Java / Spring backend skills.
+  Rabat–Salé, while building Java / Spring backend skills.
 
 ## Contact
 
